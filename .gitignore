@@ -8,3 +8,5 @@ bundle.js
 *.iml
 /src/*.js
 .DS_Store
+Multiplayer-Phaser-Game.code-workspace
+.gitignore

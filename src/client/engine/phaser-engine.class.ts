@@ -32,10 +32,4 @@ public update(): void
 {
     super.gameUpdate(this.game);
 }
-export interface LifeCycle 
-{
-    preload(): void;
-    create(): void;
-    update(): void;
-}
 }
